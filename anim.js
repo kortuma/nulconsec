@@ -1,0 +1,1 @@
+element.removeEventListener(type, listener);
